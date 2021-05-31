@@ -41,5 +41,4 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Rechtliches, Datenschutz und Impressum
-
-Rechtliche Informationen und Datenschutzerklärung sowie Impressum sind in der APP "Mozart & More" ([App Store](https://apps.apple.com/de/app/mozart-more/id1560225415) oder [Play Store](https://play.google.com/store/apps/details?id=de.augmentedart.mozartfest&hl=de&gl=US)) dargelegt. Sämtliche Inhalte beziehen sich auf diese.
+Rechtliche Informationen und Datenschutzerklärung sowie Impressum sind in der APP "Mozart & More" ([App Store](https://apps.apple.com/de/app/mozart-more/id1560225415) oder [Play Store](https://play.google.com/store/apps/details?id=de.augmentedart.mozartfest&hl=de&gl=US)) dargelegt. 
