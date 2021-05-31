@@ -57,7 +57,7 @@ Blau markiert: Die Daten sphärisch darzustellen heißt, kurz die Lieder auf ein
 
 ### Werkzeuge und Suche 
 Bei der Auswahl eines Musikstücks erscheint außerdem eine Werkzeugleiste: 
-![Image](Werkzeug.png)
+![Image](Werkzeuge.png)
 
 
 
