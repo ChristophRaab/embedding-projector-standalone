@@ -40,10 +40,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Rechtliches, Datenschutz und Impressum
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChristophRaab/Jukebox/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Rechtliche Informationen und Datenschutzerklärung sowie Impressum sind in der APP "Mozart & More" ([App Store](https://apps.apple.com/de/app/mozart-more/id1560225415) | [Play Store](https://play.google.com/store/apps/details?id=de.augmentedart.mozartfest&hl=de&gl=US)) dargelegt. Sämtliche Inhalte beziehen sich auf diese.
